@@ -1,0 +1,1 @@
+SQL Scripts for databases generation for KCP and Extract using Azure Pipelines
